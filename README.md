@@ -1,5 +1,5 @@
 # Chat API (PHP + Slim + SQLite) — bunq 
-Backend Engineer Assignment
+**Backend Engineer Assignment**
 **Author:** Filiz Ipek Oktay
 **Date:** January 2026
 
