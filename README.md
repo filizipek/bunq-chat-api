@@ -1,5 +1,5 @@
 # Chat API (PHP + Slim + SQLite) — bunq | Backend Engineer Assignment
-**Author:** Filiz Ipek Oktay
+**Author:** Filiz Ipek Oktay\\
 **Date:** January 2026
 
 A RESTful chat backend built with **PHP (Slim)** and **SQLite**.  
