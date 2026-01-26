@@ -1,0 +1,30 @@
+# dependencies
+/vendor/
+
+# sqlite db files (never commit)
+storage/*.sqlite
+storage/*.db
+storage/*.sqlite-*
+*.sqlite
+*.db
+
+# env / secrets
+.env
+.env.*
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# cache / logs
+var/
+*.log
+
+# test/cache artifacts
+.phpunit.result.cache
+phpunit.xml.bak
+
+# runtime logs
+logs/
+
