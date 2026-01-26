@@ -27,8 +27,5 @@ jobs:
       - name: Install dependencies
         run: composer install --no-interaction --prefer-dist
 
-      - name: Run migrations
-        run: php scripts/migrate.php
-
       - name: Run tests
         run: ./vendor/bin/phpunit --testdox
